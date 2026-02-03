@@ -1,4 +1,4 @@
-# my_second_dot_net_project
+# csharp-bill-calculator
 Hello World  
 I’m Aditya Sasodey.
 
